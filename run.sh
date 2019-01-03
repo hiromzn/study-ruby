@@ -16,3 +16,6 @@ run_ruby 0007-*.rb
 run_ruby 0008-*.rb
 run_ruby 0009-*.rb
 run_ruby 0010-*.rb
+run_ruby 0011-array.rb
+run_ruby 0012-execute.rb
+run_ruby 0013-class.rb
